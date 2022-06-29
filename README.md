@@ -35,6 +35,6 @@ The mod also adds a toggleable component that introduces several experimental Ga
 
 ## Changelog
 * **Version 1.0.0**. Initial GitHub upload.
- * Fixed Dirt Plaza 1 being replaced with Lava Pit
- * Updated package signatures after inadvertently resetting them
- * Fixed Open Gate Fixed Object missing rotating Palette model
+  * Fixed Dirt Plaza 1 being replaced with Lava Pit
+  * Updated package signatures after inadvertently resetting them
+  * Fixed Open Gate Fixed Object missing rotating Palette model
