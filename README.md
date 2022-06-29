@@ -1,6 +1,8 @@
 # Overview
 Project **Worldcrafter** is a multi-layered modification to the Adventure Editor, which provides considerably more creative freedom than the default experience. The mod consists of, at present, three components: 
 
+* Note: This mod replaces Psi's Adventure Tweaks and Disguise as Creature mods, due to containing features from both mods. It does NOT include the Captain's Points Tweak, due to pervasive issues with softlocking. It is also incompatible with Emd's own Extended Complexity mod.
+
 ### Core
 The project Core contains the majority of the changes, being the only package that is absolutely required. Among its features: 
 * Modifies most placeable objects to greatly increase the range to which they can be scaled. 
