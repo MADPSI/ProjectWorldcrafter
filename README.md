@@ -1,5 +1,7 @@
 # Overview
-Project **Worldcrafter** is a multi-layered modification to the Adventure Editor, which provides considerably more creative freedom than the default experience. The mod consists of, at present, three components: 
+Project **Worldcrafter** is a multi-layered modification to the Adventure Editor, which provides considerably more creative freedom than the default experience. 
+
+This mod must be installed via the Spore ModAPI Easy Installer, available as part of the Spore ModAPI Launcher Kit, available here: http://davoonline.com/sporemodder/rob55rod/ModAPI/Public/.
 
 * Note: This mod replaces Psi's Adventure Tweaks and Disguise as Creature mods, due to containing features from both mods. It does NOT include the Captain's Points Tweak, due to pervasive issues with softlocking. It is also incompatible with Emd's own Extended Complexity mod.
 
