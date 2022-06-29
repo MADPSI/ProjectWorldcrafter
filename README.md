@@ -13,6 +13,7 @@ The project Core contains the majority of the changes, being the only package th
 * Extends the Complexity of Build Mode, more than doubling the amount of placeable assets and essentially removes Complexity from Terraforming Mode, allowing practically limitless placement of Terrain Stamps. Complete removal of the Build Mode Complexity Limit remains evasive, the upper limits of infinite Terrain modification remain unclear.
 * Allows Gameplay Objects to be Disguised as more types of creations, including Creatures, Cells and other Gameplay Objects. Cells possess strange rendering properties, Gameplay Objects lack effects and, in the case of gates, render oddly.
   * The Mine has had its default Damage reduced to 0.01%, which _does_ damage the captain's health (which supports decimals despite not displaying them) but not in a visible way. This can be used to force the captain out of sneak or create trigger systems without causing significant damage. Once changed, the Damage of the mine cannot be set back to 0.01%, requiring the player to re-add the mine to the palette to reset its properties.
+* Unpublished adventures now default to having 100 Sporepoints as a way to circumvent the zero plays bug requiring one to grind dozens if not hundreds of Adventures to reach Captain Level 10.
 
 ### Camera
 The mod includes a toggleable component to alter the limitations of the Play Mode Camera. Zoom distances have been greatly increased to allow a planetary view at maximum distance, and at minimum distance, the camera can be zoomed in to the captain's model, which due to alpha detection becomes invisible, allowing for a barebones first-person experience. Zooming into the creature has been known to cause a glitch where the camera switches to a lower pivot point, the cause for which is currently unknown. These changes do not affect Freecam mode (enabled with Ctrl+Alt+C).
@@ -30,4 +31,10 @@ The mod also adds a toggleable component that introduces several experimental Ga
 * Derezzed - Testing.
 * Klaracbarack - Testing.
 * ThePlantGuy - Testing.
-* Liskomato - Testing. _Successfully_ implementing extended palette slots into their own mod.
+* Liskomato - Testing, _successfully_ implementing extended palette slots into their own mod. Check it out here (link pending)
+
+## Changelog
+* **Version 1.0.0**. Initial GitHub upload.
+ * Fixed Dirt Plaza 1 being replaced with Lava Pit
+ * Updated package signatures after inadvertently resetting them
+ * Fixed Open Gate Fixed Object missing rotating Palette model
